@@ -12,6 +12,17 @@ Luckily I realized the coding industry is more in line with my personal goals an
 * Javascript - Ajax
 * Github, trello, Figma ⚡
 
+:earth_americas: Languages: :earth_americas:
+<ul>
+  <li> Spanish: Native </li>
+  <li> English: Fluent(C2) </li>
+  <li> Swahili: Basic </li>
+</ul>
+
+Fun Fact:
+:radio:I am such a blockchain enthusiast that i have a crypto podcast, over 100 episodes and over 30k downloads, published 3 times per week
+https://open.spotify.com/show/3JlDIqMGpmSkfyr1sNTdeq
+:radio:
 <!--
 **msantamaria86/msantamaria86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
