@@ -12,6 +12,13 @@ Luckily I realized the coding industry is more in line with my personal goals an
 * Javascript - Ajax
 * Github, trello, Figma ⚡
 
+and after completing the cryptozombies.io program I now have ample knowledge of the following:
+
+* Solidity programming language
+* Chai - mocha
+* Truffle
+* Oracles - zkSync
+
 :earth_americas: Languages: :earth_americas:
 <ul>
   <li> Spanish: Native </li>
@@ -20,7 +27,7 @@ Luckily I realized the coding industry is more in line with my personal goals an
 </ul>
 
 Fun Fact:
-:radio:I am such a blockchain enthusiast that i have a crypto podcast, over 100 episodes and over 30k downloads, published 3 times per week
+:radio:I am such a blockchain enthusiast that i have a crypto podcast, over 150 episodes and over 50k downloads, published 2 times per week
 https://open.spotify.com/show/3JlDIqMGpmSkfyr1sNTdeq
 :radio:
 <!--
